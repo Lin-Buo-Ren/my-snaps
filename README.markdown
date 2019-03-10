@@ -17,6 +17,5 @@
 <iframe src="https://snapcraft.io/poedit/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
 <iframe src="https://snapcraft.io/tidy/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
 <iframe src="https://snapcraft.io/utsushi/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
-<iframe src="https://snapcraft.io/wimlib/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
 <iframe src="https://snapcraft.io/xmlstarlet/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
 <iframe src="https://snapcraft.io/yad/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 

@@ -1,4 +1,22 @@
 # My Snaps
-
-<iframe src="https://snapcraft.io/mari0/embedded?button=black&summary=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
-
+<iframe src="https://snapcraft.io/audio-recorder/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/gallery-dl/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/guvcview/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/gotop-brlin/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/hello-snapcrafters/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/hunspell-dictionaries/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/image-density-fixer/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/libxml2/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/libxslt/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/love-brlin/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/mari0/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/mari0-ce/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/mp3splt-gtk/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/my-awesome-app/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/nano/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/poedit/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/tidy/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/utsushi/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/wimlib/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/xmlstarlet/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
+<iframe src="https://snapcraft.io/yad/embedded?button=black&summary=true&description=true" frameborder="0" width="100%" height="320px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe> 
